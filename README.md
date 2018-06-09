@@ -1,2 +1,2 @@
 # AddToPath-Windows
-Simple program that lets you add things to the global path on windows
+Add folders to the Windows PATH environment variable
